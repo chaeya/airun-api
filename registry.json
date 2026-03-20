@@ -1,0 +1,30 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-03-20",
+  "entries": [
+    {
+      "id": "airun/api",
+      "name": "api",
+      "description": "AIRUN REST API 서버 엔드포인트 가이드 - 13개 도메인, 100개 이상의 엔드포인트 완전 문서화",
+      "source": "maintainer",
+      "tags": ["airun", "api", "rest", "ai", "chat", "rag", "websearch", "report", "tasks", "projects"],
+      "languages": [
+        {
+          "language": "javascript",
+          "versions": [
+            {
+              "version": "1.0.0",
+              "path": "airun/docs/api/javascript",
+              "files": ["DOC.md"],
+              "size": 45000,
+              "lastUpdated": "2026-03-20",
+              "recommended": true
+            }
+          ],
+          "recommendedVersion": "1.0.0"
+        }
+      ],
+      "_type": "doc"
+    }
+  ]
+}
